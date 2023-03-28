@@ -1,4 +1,4 @@
-# CS-370
+# GOOGLE KERAS LEARNING ALGORITHM FOR SOLVING MAZE
 
 ## overview
 For this project I was given starter code for a treasure hunting maze game. The code I was given initialized a grid maze with various obsticles and one treasure location. My task was to program a reinforcement learning algorithm where the agent would be a non-player-computer pirate. The pirate's goal is to reach the treasure before the player. The pirate is incentivezed by a reward score that is increased for moves that brought it closer to the treasure, and decreased when the pirate collides with one of the obsticles in the maze. 
